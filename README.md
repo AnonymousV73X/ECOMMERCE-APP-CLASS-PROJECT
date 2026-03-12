@@ -134,7 +134,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@AnonymousV73X343](https://github.com/AnonymousV73X343)
+- GitHub: [@AnonymousV73X/](https://github.com/AnonymousV73X/)
 
 ---
 
